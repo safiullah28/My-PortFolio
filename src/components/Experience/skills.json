@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "icon": "./skills/html.jpg"
+  },
+  {
+    "title": "CSS",
+    "icon": "./skills/css.jpg"
+  },
+  {
+    "title": "React",
+    "icon": "./skills/react.jpg"
+  },
+  {
+    "title": "Node",
+    "icon": "./skills/node.jpg"
+  },
+  {
+    "title": "GraphQL",
+    "icon": "./skills/graphql.jpg"
+  },
+  {
+    "title": "MongoDB",
+    "icon": "./skills/mongodb.jpg"
+  },
+  {
+    "title": "Figma",
+    "icon": "./skills/figma.jpg"
+  }
+]
